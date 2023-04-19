@@ -39,7 +39,7 @@ button {
     color: #CFB487;
     background-color: white;
     width: 30px;
-    border:#CFB487 solid
+    border: #CFB487 solid
 }
 
 p {
@@ -51,4 +51,15 @@ p {
 
 .invisible {
     display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .item {
+        width: 95%;
+    }
+
+    button {
+        right: 5px;
+    }
+
 }
