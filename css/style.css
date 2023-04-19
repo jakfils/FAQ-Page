@@ -53,6 +53,10 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+
     .item {
         width: 95%;
     }
