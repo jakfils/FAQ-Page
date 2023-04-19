@@ -1,7 +1,6 @@
 .container {
     background-color: #F1F5F8;
     padding: calc(8px + 1.5625vw);
-    min-height: 100vh;
 }
 
 h1 {
