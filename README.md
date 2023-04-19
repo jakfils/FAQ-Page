@@ -1,6 +1,6 @@
-# Document
+# FAQ Page
 
-Description
+FAQ Page
 
 ## Desktop view
 
